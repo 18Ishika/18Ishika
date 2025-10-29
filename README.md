@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Ishika, a Computer Science and Engineering undergraduate specializing in Data Science. I’m passionate about building real-world solutions using Machine Learning, Deep Learning, and Generative AI.
 
-I have hands-on experience with Python, Scikit-learn, TensorFlow, Keras, LangChain, and Flask. I also enjoy working on NLP tasks, leveraging libraries like Hugging Face Transformers, NLTK, and SpaCy to develop intelligent language-based solutions.
+I have hands-on experience with Python, Scikit-learn, TensorFlow, Keras, LangChain, and Flask. I also enjoy working on NLP tasks, leveraging libraries like Hugging Face Transformers, NLTK, and SpaCy to develop intelligent language-based solutions.I also have experience in building web based solutions using DJango and Flask utilising HTML, CSS and JavaScript.
 
 I’m currently seeking internship and full-time opportunities in areas including:<br>
 
