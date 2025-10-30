@@ -11,7 +11,7 @@ Generative AI / NLP<br>
 
 AI-powered Web Applications<br>
 
-Python / Flask Backend Development<br>
+Python / Flask and Django Backend Development<br>
 
 I thrive on transforming complex data and AI concepts into practical, user-friendly applications and solutions.
 
